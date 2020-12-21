@@ -53,7 +53,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'roo'
 gem 'spreadsheet'
-gem 'geocoder', '~> 1.2.9'
+gem 'geocoder', '~> 1.6.4'
 gem 'gmaps4rails'
 gem 'a9n'
 gem 'devise'
